@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>个人博客</title>
-    <link href="https://blog.github.io.git/feed.xml" rel="self" />
-    <link href="https://blog.github.io.git" />
+    <link href="https://blog.github.io/feed.xml" rel="self" />
+    <link href="https://blog.github.io" />
     <updated>2025-02-19T20:41:58+08:00</updated>
     <author>
         <name>Yu</name>
     </author>
-    <id>https://blog.github.io.git</id>
+    <id>https://blog.github.io</id>
 
     <entry>
         <title>XiaoYu wenzhang</title>
         <author>
             <name>Yu</name>
         </author>
-        <link href="https://blog.github.io.git/xiaoyu-wenzhang.html"/>
-        <id>https://blog.github.io.git/xiaoyu-wenzhang.html</id>
+        <link href="https://blog.github.io/xiaoyu-wenzhang.html"/>
+        <id>https://blog.github.io/xiaoyu-wenzhang.html</id>
 
         <updated>2025-02-19T20:39:25+08:00</updated>
             <summary>

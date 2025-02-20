@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "个人博客",
     "description": "",
-    "home_page_url": "https://blog.github.io.git",
-    "feed_url": "https://blog.github.io.git/feed.json",
+    "home_page_url": "https://blog.github.io",
+    "feed_url": "https://blog.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Yu"
     },
     "items": [
         {
-            "id": "https://blog.github.io.git/xiaoyu-wenzhang.html",
-            "url": "https://blog.github.io.git/xiaoyu-wenzhang.html",
+            "id": "https://blog.github.io/xiaoyu-wenzhang.html",
+            "url": "https://blog.github.io/xiaoyu-wenzhang.html",
             "title": "XiaoYu wenzhang",
             "summary": "哈哈哈哈💯",
             "content_html": "<blockquote>\n<p><span style=\"color: #000000;\">哈哈哈哈💯</span></p>\n</blockquote>\n<p> </p>\n<p> </p>",
